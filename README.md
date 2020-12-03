@@ -2,6 +2,9 @@
 # Male-specific age estimation based on Y-chromosomal DNA methylation
 
 
+[![DOI](https://zenodo.org/badge/318227081.svg)](https://zenodo.org/badge/latestdoi/318227081)
+
+
 #### Athina Vidaki, Diego Montiel González, Benjamin Planterose Jiménez, Manfred Kayser
 Department of Genetic Identification, Erasmus MC University Medical Center Rotterdam, Rotterdam, The Netherlands.
 
