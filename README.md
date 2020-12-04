@@ -38,7 +38,7 @@ Datasets: Scripts employed in the preprocessing of 450K data whose raw IDAT data
 
 * *data/annotation/* annotation and correlation files to be used on Integrative Genomics Viewer (IGV)
 
-* *data/feature_selection/* list of CpG sites based on IQR (> 1.0) and Stepwise-Forward feature selection
+* *data/feature_selection/* list of CpG sites based on IQR (>= 0.1) and Stepwise-Forward feature selection
 
 * *data/normalized/* contains normalized methylation beta values BMIQ + ENmix for horvath and Y-chromosome
 
